@@ -1,0 +1,4 @@
+get CSS, JS and HTML from the server
+
+once recived, using the JS post the data from from
+into server
