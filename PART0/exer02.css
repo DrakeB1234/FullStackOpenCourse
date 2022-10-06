@@ -1,0 +1,29 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(107, 243, 107);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 2%;
+    background-color: rgb(243, 193, 107);
+}
+
+p {
+    padding: 2%;
+    border: 1px solid black;
+}
+
+h1 {
+    padding: 2%;
+    border: 1px solid black;
+}
+
+img {
+    height: 40%;
+    width: 40%;
+}
