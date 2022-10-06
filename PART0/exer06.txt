@@ -1,0 +1,3 @@
+POST data to server from input from form in the HTML
+
+no GET requests are made from server, only data POSTED to server

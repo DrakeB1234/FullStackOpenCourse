@@ -1,4 +1,5 @@
 get CSS, JS and HTML from the server
 
-once recived, using the JS post the data from from
-into server
+display the HTML and CSS, wait for event handler to post
+data to server from form
+
