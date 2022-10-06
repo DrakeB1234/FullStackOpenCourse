@@ -1,0 +1,7 @@
+first post then content in the text box to the server
+
+after data has been posted, then GET request for the notes JSON data
+
+after data is receieved, the GET request for the CSS and JSON
+
+using the JS, display the notes from JSON data into the HTML doc
